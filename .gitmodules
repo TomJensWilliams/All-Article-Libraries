@@ -1,3 +1,24 @@
 [submodule "Research-Articles-Library"]
 	path = Research-Articles-Library
 	url = https://github.com/TomJensWilliams/Research-Articles-Library.git
+[submodule "LeetCode-Articles-Library"]
+	path = LeetCode-Articles-Library
+	url = https://github.com/TomJensWilliams/LeetCode-Articles-Library.git
+[submodule "Tech-Articles-Library"]
+	path = Tech-Articles-Library
+	url = https://github.com/TomJensWilliams/Tech-Articles-Library.git
+[submodule "History-Articles-Library"]
+	path = History-Articles-Library
+	url = https://github.com/TomJensWilliams/History-Articles-Library.git
+[submodule "Cooking-Articles-Library"]
+	path = Cooking-Articles-Library
+	url = https://github.com/TomJensWilliams/Cooking-Articles-Library.git
+[submodule "Philosophy-Articles-Library"]
+	path = Philosophy-Articles-Library
+	url = https://github.com/TomJensWilliams/Philosophy-Articles-Library.git
+[submodule "Religion-Articles-Library"]
+	path = Religion-Articles-Library
+	url = https://github.com/TomJensWilliams/Religion-Articles-Library.git
+[submodule "Programming-Articles-Library"]
+	path = Programming-Articles-Library
+	url = https://github.com/TomJensWilliams/Programming-Articles-Library.git
